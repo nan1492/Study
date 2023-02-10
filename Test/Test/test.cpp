@@ -39,6 +39,5 @@ int main()
 	l |= l2;
 	printf_s("%d\n", l);
 
-	//¾Æ ½Ã¹ß
-
+	//fuck 
 }
