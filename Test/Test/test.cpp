@@ -38,6 +38,4 @@ int main()
 	l |= l2;
 	l |= l2;
 	printf_s("%d\n", l);
-
-	//fuck 
 }
